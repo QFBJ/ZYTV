@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "name": "月光宝盒MAX更新",
+      "pic": "https://agit.ai/guot54/ygbh/raw/branch/master/pic/1677485228650.jpg",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTgwMzUzNA==&mid=2247485902&idx=1&sn=532ca769cbbe312bf112cc2d6b25ae80&chksm=cf7fa42ff8082d399bbae6445dd4452f5fd7af066396030e54da86d5e9b5f953ba8d8b97b748&token=791987127&lang=zh_CN#rd",
+      "type": "web",     
+      "desc": "",
+      "show": true
+    },
+    {
+      "name": "听说你喜欢我",
+      "pic": "https://agit.ai/guot54/ygbh/raw/branch/master/pic/ts.jpeg",
+      "url": "",
+      "type": "search",     
+       "desc": "",
+      "show": true
+    },
+    {
+      "name": "权力的游戏",
+      "pic": "https://agit.ai/guot54/ygbh/raw/branch/master/pic/qy.jpeg",
+      "url": "",
+      "type": "search",     
+       "desc": "",
+      "show": true
+    },
+    {
+      "name": "狂飙",
+      "pic": "https://agit.ai/guot54/ygbh/raw/branch/master/kb.jpg",
+      "url": "",
+      "type": "search",     
+       "desc": "",
+      "show": true
+    }
+  ]
+}

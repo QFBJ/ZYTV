@@ -1,0 +1,12 @@
+[
+  {
+    "key": "紙條",
+    "name": "紙條",
+    "type": 3,
+    "api": "csp_Paper",
+    "searchable": 1,
+    "filterable": 1,
+    "changeable": 0,
+    "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+  }
+]

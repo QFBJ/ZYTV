@@ -1,0 +1,134 @@
+[
+  {
+    "key": "csp_xpath_音范丝磁力",
+    "name": "🐛音范丝磁力〔XP〕",
+    "type": 3,
+    "api": "csp_XPath",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "http://maoyingshi.cc/tvbox/👌🏻/sh/MaooXP/音范丝磁力.json",
+    "jar": "http://maoyingshi.cc/tvbox/👌🏻/jar/ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd"
+  },
+  {
+    "key": "csp_xpath_音范丝磁力",
+    "name": "🐛音范丝磁力〔XP〕",
+    "type": 3,
+    "api": "csp_XPath",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "clan://tvboxhh/0217ygbh/XPath/音范丝磁力.json",
+    "jar": "http://maoyingshi.cc/tvbox/👌🏻/jar/ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd"
+  },
+  {
+    "key": "csp_biubiu_速搜影视",
+    "name": "🥒速搜影视〔XB〕",
+    "type": 3,
+    "api": "csp_XBiubiu",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "http://maoyingshi.cc/tvbox/👌🏻/sh/MaooXB/速搜影视.json"
+  },
+  {
+    "key": "csp_biubiu_看片网",
+    "name": "🥒看片网〔XB〕",
+    "type": 3,
+    "api": "csp_XBiubiu",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "http://maoyingshi.cc/tvbox/👌🏻/sh/MaooXB/看片网.json"
+  },
+  {
+    "key": "csp_xBPQ_西瓜影视",
+    "name": "🏆西瓜影视",
+    "type": 3,
+    "api": "csp_xBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/西瓜影视.json"
+  },
+  {
+    "key": "csp_xBPQ_黄仓库",
+    "name": "🏆黄仓库",
+    "type": 3,
+    "api": "csp_xBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/黄仓库.json"
+  },
+  {
+    "key": "csp_xBPQ_banban",
+    "name": "🏆banban",
+    "type": 3,
+    "api": "csp_xBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/banban.json"
+  },
+  {
+    "key": "csp_xf_18av",
+    "name": "🏆18av",
+    "type": 3,
+    "api": "csp_XYQHiker",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/18av.json"
+  },
+  {
+    "key": "csp_xBPQ-爱看影院",
+    "name": "🏆爱看影院",
+    "type": 3,
+    "api": "csp_xBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/爱看影院.json"
+  },
+  {
+    "key": "csp_xBPQ_黄瓜",
+    "name": "🏆黄瓜",
+    "type": 3,
+    "api": "csp_xBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/黄瓜.json"
+  },
+  {
+    "key": "csp_XBiu_香蕉",
+    "name": "🍁香蕉(XB)",
+    "type": 3,
+    "api": "csp_XBiubiu",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/香蕉.json"
+  },
+  {
+    "key": "csp_XBiu_GAOAA",
+    "name": "🍁GAOAA(XB)",
+    "type": 3,
+    "api": "csp_XBiubiu",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/GAOAA.json"
+  },
+  {
+    "key": "csp_XBiu_黄仓库",
+    "name": "🍁黄仓库(XB)",
+    "type": 3,
+    "api": "csp_XBiubiu",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/黄仓库.json"
+  }
+]

@@ -1,0 +1,5 @@
+香雅情XYQ规则（支持海阔视界推送）
+clan://localhost/XYQTVBox/XYQTVBox.json
+
+道长JS规则
+clan://localhost/XYQTVBox/drpy_js/drjs_config.json
