@@ -19,6 +19,8 @@
 
 {"key":"Gitcafe","name":"📜纸条┃云盘2","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"clan://TVBox/jar/alitoken.txt","jar":"clan://TVBox/jar/ali刷新.jar"},
 
+{"key": "csp_Yht","name": "🌵┃荷塘┃影视","type": 3,"api": "csp_Yht","searchable": 1, "quickSearch": 1, "filterable": 1,"ext": "https://yehetang.cc","jar": "http://我不是.肥猫.love:63/Jar/panda230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9"},
+
 {"key":" 在线┃直播","name":"📺┃在线┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_xBPQ新视觉","name":"🌟┃视觉┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/json/新视觉影院.json"},
@@ -38,7 +40,11 @@
 
 {"key":"csp_Lib","name":"💫┃Lib  ┃影视","type":3,"api":"csp_Lib","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
     
+{"key": "Lezhu","name": "🐷┃乐猪┃影视","api": "csp_XBPQ", "type": 3, "filterable": 1,"quickSearch": 1, "searchable": 1,"ext": "http://我不是.肥猫.love:63/json/乐猪.json","jar": "http://我不是.肥猫.love:63/Jar/panda230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9"},
+    
 {"key":"csp_apple","name":"🍎苹果丨影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+//{"key": "csp_Smdyy","name": "🐴┃神马┃影视","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://我不是.肥猫.love:63/Jar/panda230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9"},
 
 {"key":"csp_Lgyy","name":"🌀蓝光丨影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://share.nite07.com/api/v3/file/source/35029/%E8%82%A5%E7%8C%AB1215.jar?sign=eKVuev5GqL6YKg3vTCh2PvNo8-ahKXcoKggFUH2EulI%3D%3A0;md5;bcdd34c21fb91d6dbbc8d784c8a9f9cf"},
 
@@ -61,6 +67,10 @@
 
 {"key":"csp_xBPQ新大米","name":"🌾┃大米┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#连续剧$21#综艺$22#动漫$23#福利$35","分类url":"https://www.lkfrp.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/pjax/YES.html"}},
 
+{"key": "csp_Nkdy","name": "🗽┃南柯┃影视","type": 3,"api": "csp_Nkdy", "searchable": 1,"quickSearch": 1,"filterable": 1},
+            
+{"key": "csp_Auete", "name": "🏝┃Aue┃影视","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key":"喵影视","name":"🐈┃喵喵┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"免嗅":"1","分类url":"http://www.miaoys.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"}},
 
 {"key":"csp_Auete","name":"🏝┃Aue ┃影视","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -76,13 +86,23 @@
 
 {"key":"MGT","name":"🍋芒果┃官源","type":3,"api":"Mgtv","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://bbs.txwldh.com/vip.jar;md5;EE39D6223759E1B9683EFD45D15F9134"},
 
+//{"key": "csp_biubiu_影视工厂","name": "🎥┃影视┃工厂","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/ysgc2.json","jar": "http://我不是.肥猫.love:63/Jar/panda230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9"},
+        
+//{"key": "csp_biubiu_voflix","name": "🌀┃Vof┃影视", "type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://w.g9.pub:66/381203888/XP/voflix.json","jar": "http://我不是.肥猫.love:63/Jar/panda230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9"},
+            
+{"key": "csp_XBiu口袋影院","name": "📩┃口袋┃影视","type": 3,"api": "csp_XBiu","ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist": {"sort": 1}}},
+
 {"key":"csp_XBiu233动漫","name": "🦁┃233┃动漫","type": 3,"api": "csp_XBiu","ext": "https://www.233dm.cc/show/{cateId}--------{catePg}---.html"},
 
 {"key":"Dm84","name":" 🦸┃动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "csp_xpath_789kp","name": "🎗️789影视┃XP","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "clan://TVBox/MaooXP/789影视XP.json"},
+{"key": "csp_Ying","name": "🌸┃樱花┃动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://我不是.肥猫.love:63/Jar/panda230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9"},
+        
+{"key": "csp_Ysj","name": "🐲┃异界┃动漫","type": 3,"api": "csp_Ysj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://我不是.肥猫.love:63/Jar/panda230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9"},
+        
+{"key": "csp_Anime1","name": "💀┃日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"csp_XBiu口袋影院","name": "📩口袋┃XB","type": 3,"api": "csp_XBiu","ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
+{"key": "csp_xpath_789kp","name": "🎗️789影视┃XP","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "clan://TVBox/MaooXP/789影视XP.json"},
 
 {"key":"csp_XBiu达达龟","name": "🐢达达┃XB", "type": 3, "api": "csp_XBiu","ext":"https://www.dadagui.me/vodtype/{cateId}-{catePg}.html"},
 
@@ -97,11 +117,10 @@
 {"key":"Anime1","name":" 🧟┃Ani ┃影视","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key":"zhaozy","name":"找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVBox/jar/alitoken.txt","jar":"clan://TVBox/jar/fm.jar"},
-
-{"key":"Upyunso","name":"云搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/jar/alitoken.txt","jar":"clan://TVBox/jar/fm.jar"},
-
-{"key":"Yisou","name":"易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVBox/jar/alitoken.txt","jar":"clan://TVBox/jar/fm.jar"},
+{"key": "易搜","name": "易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
+{"key": "盤搜","name": "盘搜 | 搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
+{"key": "UP云搜","name": "Up云搜┃搜索","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
+{"key": "找資源","name": "找资源 | 搜索","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "clan://TVBox/jar/alitoken.txt$$$yingshi$$$abcd1234","jar": "clan://TVBox/jar/fm.jar"},
 
 {"key":"csp_BBB","name":"🅱哔哩┃合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"clan://TVBox/Bilibili/哔哩合集3.json","jar": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"},
 

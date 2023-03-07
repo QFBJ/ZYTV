@@ -155,11 +155,11 @@
     },
     {"key":"csp_GitCafe1","name":"纸条1 | 搜索","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/ali刷新.jar"},
   {"key": "紙條","name": "纸条 | 搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"switchable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
-{"key": "易搜","name": "易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"switchable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
-{"key": "盤搜","name": "盘搜 | 搜索","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"switchable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
-{"key": "UP雲搜","name": "Up云搜┃搜索","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 0,"switchable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
-{"key": "找資源","name": "找资源 | 搜索","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"switchable": 0,"ext": "clan://TVBox/jar/alitoken.txt$$$yingshi$$$abcd1234","jar": "clan://TVBox/jar/fm.jar"},
-//{"key": "push_agent","name": "推送(阿里推送/磁力推送)","type": 3,"api": "csp_Push","searchable": 1,"filterable": 0,"switchable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"}
+{"key": "易搜","name": "易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
+{"key": "盤搜","name": "盘搜 | 搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
+{"key": "UP雲搜","name": "Up云搜┃搜索","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
+{"key": "找資源","name": "找资源 | 搜索","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "clan://TVBox/jar/alitoken.txt$$$yingshi$$$abcd1234","jar": "clan://TVBox/jar/fm.jar"},
+//{"key": "push_agent","name": "推送(阿里推送/磁力推送)","type": 3,"api": "csp_Push","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"}
 {"key": "push_agent", "name": "推送(海阔规则)", "type": 3, "api": "csp_PushAgent", "searchable": 0,"quickSearch": 0, "filterable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/Hk/Hk.jar"}
   ],
   "parses": [

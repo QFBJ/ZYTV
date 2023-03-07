@@ -1,5 +1,5 @@
 {
-    "spider": "http://cdn.qiaoji8.com/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a",
+    "spider": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZHhhd2kvMS9tYWluL3R2bGl2ZS50eHQ="]}]}],
     "sites": [

@@ -1,5 +1,5 @@
 {
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;d58398a4c77607947d9a6168409b44a2",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;eb433f3b00e991e6ba6509cffc99672c",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "sites": [
         {
@@ -496,9 +496,9 @@
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
             "ext": "http://ali.饭太硬.ml/token$$$自己去注册$$$qq112233"
         },
         {
@@ -508,8 +508,8 @@
             "api": "csp_PanSou",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
+            "filterable": 1,
+            "changeable": 1,
             "ext": "http://ali.饭太硬.ml/token"
         },
         {
@@ -519,8 +519,8 @@
             "api": "csp_UpYun",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
+            "filterable": 1,
+            "changeable": 1,
             "ext": "http://ali.饭太硬.ml/token"
         },
         {

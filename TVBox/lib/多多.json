@@ -281,11 +281,13 @@
       "name": "🐉龙门影视",
       "type": 3,
       "api": "csp_AppYsV2",
+      "jar":"clan://TVBox/jar/xzy1029.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod"
     },
+  // {"key": "csp_sp龙门","name": "🐉龙门影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod"},
     {
       "key": "Kuaikan",
       "name": "🦋快看影视",
