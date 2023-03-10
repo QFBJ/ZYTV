@@ -1,0 +1,17 @@
+{"spider":"clan://TVBox/jar/fm.jar",
+ "sites":[
+{"key":"drpy_js_豆瓣","name":"🌎影视推荐(首页)","type":3,"api":"clan://TVBox/JS/lib/drpy.min.js","ext":"clan://TVBox/JS/js/drpy.js"},
+{"key":"csp_GitCafe1","name":"搜索 | 纸条","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/ali刷新.jar"},
+{"key": "纸条","name": "纸条 | 搜索","type": 3,"api": "csp_Paper","ext": "clan://TVBox/jar/alitoken.txt"},
+{"key": "易搜","name": "易搜┃搜索","type": 3,"api": "csp_YiSo","ext": "clan://TVBox/jar/alitoken.txt"},
+{"key": "盘搜","name": "盘搜 | 搜索","type": 3,"api": "csp_PanSou","ext": "clan://TVBox/jar/alitoken.txt"},
+{"key": "UP云搜","name": "Up云搜┃搜索","type": 3,"api": "csp_UpYun","ext": "clan://TVBox/jar/alitoken.txt"},
+{"key": "找资源","name": "找资源 | 搜索","type": 3,"api": "csp_Zhaozy","ext": "clan://TVBox/jar/alitoken.txt$$$yingshi$$$abcd1234"},
+{"key": "push_agent","name": "推送(阿里推送/磁力推送)","type": 3,"api": "csp_Push","ext": "clan://TVBox/jar/alitoken.txt"}
+
+],
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://111.67.196.181/mtv/zhibo.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2xpdmUudHh0"]}]}],
+
+"wallpaper":"http://刚刚.live/图"
+}
